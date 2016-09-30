@@ -8,7 +8,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "roject.packageName"
+        applicationId "project.packageName"
         minSdkVersion 19
         targetSdkVersion 24
         versionCode project.versionCode
