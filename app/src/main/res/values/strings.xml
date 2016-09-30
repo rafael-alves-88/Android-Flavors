@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlavorSample</string>
+    <string name="flavor_text">Prod Version</string>
+</resources>
